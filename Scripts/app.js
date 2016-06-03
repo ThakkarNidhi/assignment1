@@ -14,9 +14,9 @@
     var paragraphs = [];
     
     // data for my pages
-    paragraphs[0] = "This is my first paragraph. It is only visible on the first page. This next sentence is to prove that this really works!!!";
-    paragraphs[1] = "This is my second paragraph. It is only visible on the second page";
-    paragraphs[2] = "This is my third paragraph. It is only visible on the third page";
+    paragraphs[0] = "Hello I am Nidhi Thakkar.I am studying Software Engeering Technology at Centennial College progress campus ";
+    paragraphs[1] = "My mission is to  build a network of companies related to software, which will contribute to the development and wide spread usage of the company's software packages..";
+    paragraphs[2] = "for this mission i have come to canada leaving back my home country";
     
     // second way to define an array
     //var paragraphs = new Array();
