@@ -1,5 +1,15 @@
 /* main JavaScript file */
 // IIFE - Immediately Invoked Function Expression
+/**
+*filename: app.js
+*
+@author Nidhi Thakkar
+@date 03/06/2016
+*
+*student id:300872151
+*website http://assignment1comp125.azurewebsites.net/index.html
+@description This is the main java script file for the website.
+*/
 (function(){
     "use strict";
     
