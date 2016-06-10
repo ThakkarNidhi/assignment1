@@ -4,10 +4,10 @@
 *filename: app.js
 *
 @author Nidhi Thakkar
-@date 03/06/2016
+@date 10/06/2016
 *
 *student id:300872151
-*website http://assignment1comp125.azurewebsites.net/index.html
+*website  
 @description This is the main java script file for the website.
 */
 (function(){
@@ -23,6 +23,12 @@
     
     // define your paragraphs array;
     var paragraphs = [];
+
+    // Create a reference to the send button;
+    var sendButton = document.getElementById("sendButton");
+    sendButton.addEventListener("click",function(event) {
+        event.preventDefault
+    });
     
     // data for my pages
     paragraphs[0] = "Hello I am Nidhi Thakkar.I am studying Software Engeering Technology at Centennial College progress campus.My mission is to  build a network of companies related to software, which will contribute to the development and wide spread usage of the company's software packages..for this mission i have come to canada leaving back my home country ";
